@@ -278,7 +278,8 @@
               line-height: unset;
               margin: 0%;
               font-size: 0.75rem;
-              word-wrap: break-word;
+            //   word-wrap: break-word;
+              overflow-wrap: wrap;
             }
   
             > a {
