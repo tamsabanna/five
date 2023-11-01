@@ -1,0 +1,42 @@
+{
+  "projects": [
+    {
+      "date": "07/10/2023",
+      "title": "SSR",
+      "description": "Welcome to SSR, your go-to source for all things tech! Explore the latest in technology tutorials. Whether you're a gadget enthusiast, a software geek, or simply curious about the digital world, we've got you covered. Stay updated with cutting-edge developments, insightful articles, and expert tips to navigate the ever-evolving realm of technology.",
+      "url": "https://react-js-project-one.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+    },
+
+    {
+      "date": "11/10/2023",
+      "title": "MY TUBE",
+      "description": 
+      "Welcome to MY TUBE, your global video destination! Explore storytelling, creativity, and entertainment. We offer creators a platform to share vlogs, tutorials, music, and more. Join our community to experience the world of video, where every frame narrates a story.",
+      "url": "https://react-js-project-two-five.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+    },
+    {
+      "date": "15/10/2023",
+      "title": "XCRYPTO",
+      "description": "Welcome to xCrypto, your hub for all things crypto! Explore the world of digital finance, blockchain tech, and cryptocurrencies. We provide trusted news, analysis, and insights. Whether you're a trader, enthusiast, or newcomer, find info and resources for informed decisions in the crypto market. Join us on the journey of digital assets and blockchain at xCrypto.",
+      "url": "https://react-js-projec-three-xcrypto.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+    },
+
+    {
+      "date": "17/10/2023",
+      "title": "WEATHER APP",
+      "description": "Welcome to Weather, your trusted source for forecasts and meteorological insights. Whether planning your day or an adventure, our platform offers real-time weather data and interactive maps for informed decisions. Join our community of weather enthusiasts to explore the atmospheric conditions shaping our world. Be prepared and stay ahead with us in the ever-changing weather landscape.",
+      "url": "https://weather-nu-rosy.vercel.app/",
+      "imgSrc": "https://plus.unsplash.com/premium_photo-1677593850639-9f1e14e4524b?auto=format&fit=crop&q=60&w=400&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8d2VhdGhlciUyMGZvcmVjYXN0fGVufDB8fDB8fHww"
+    },
+    {
+      "date": "20/10/2023",
+      "title": "PORTFOLIO",
+      "description": "Welcome to my portfolio! I'm Suryabhan Singh Rathore, a Software Developer. Explore my creative journey through my best work, from Front-end to Back-end Development. I harness design, innovation, to make a lasting impact. Discover how I've solved problems, brought ideas to life, and created memorable experiences. Let's connect and collaborate on your next projects!",
+      "url": "/",
+      "imgSrc": "http://localhost:3000/static/media/Picsart_23-10-29_15-13-32-426.9ae27a9b55aa7a054735.png"
+    }
+  ]
+}
