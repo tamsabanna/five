@@ -253,7 +253,7 @@
   
       > svg {
         font-size: 2rem;
-        bottom: 12%;
+        bottom:5%;
       }
     }
   
@@ -278,6 +278,7 @@
               line-height: unset;
               margin: 0%;
               font-size: 0.75rem;
+              word-wrap: break-word;
             }
   
             > a {
