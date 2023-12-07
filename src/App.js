@@ -28,7 +28,7 @@ function App() {
   }, [ratio]);
 
 
-  return ratio < 1.7777 ? (
+  return ratio < 3 ? (
     <>
     <HeaderPhone menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
     <Header  menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
